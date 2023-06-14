@@ -1,0 +1,27 @@
+{
+  "name": "videoedit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21tarun/videoEdit.git"
+  },
+  "author": "Tarun Udainiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21tarun/videoEdit/issues"
+  },
+  "homepage": "https://github.com/21tarun/videoEdit#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "child_process": "^1.0.2",
+    "express": "^4.18.2",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
